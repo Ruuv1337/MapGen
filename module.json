@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": true,
+    "name": "TERA MAP GENERATOR",
+    "author": "Ruuv1337",
+    "description": "Gen .map files again.",
+    "version": "1.0",
+    "options": {
+        "niceName": "MapGen",
+        "guiName": "MapGen"
+    },
+    "servers": ["https://raw.githubusercontent.com/Ruuv1337/MapGen/"],
+    "supportUrl": "https://github.com/Ruuv1337/MapGen/issues"
+}
